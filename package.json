@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/LazarVell/R3FPortfolio",
+  "homepage": "https://lazarvell.github.io/R3FPortfolio/",
   "scripts": {
     "dev": "react-scripts start",
     "build": "react-scripts build",
