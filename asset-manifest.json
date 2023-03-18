@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/LazarVell/R3FPortfolio/static/css/main.dc14b45e.css",
-    "main.js": "/LazarVell/R3FPortfolio/static/js/main.cd5a7674.js",
-    "static/media/model.gltf": "/LazarVell/R3FPortfolio/static/media/model.9c01e3a7e580a454b2fc.gltf",
-    "static/media/BebasNeue-Regular.ttf": "/LazarVell/R3FPortfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
-    "index.html": "/LazarVell/R3FPortfolio/index.html",
-    "main.dc14b45e.css.map": "/LazarVell/R3FPortfolio/static/css/main.dc14b45e.css.map",
-    "main.cd5a7674.js.map": "/LazarVell/R3FPortfolio/static/js/main.cd5a7674.js.map"
+    "main.css": "/R3FPortfolio/static/css/main.dc14b45e.css",
+    "main.js": "/R3FPortfolio/static/js/main.9fc51062.js",
+    "static/media/model.gltf": "/R3FPortfolio/static/media/model.9c01e3a7e580a454b2fc.gltf",
+    "static/media/BebasNeue-Regular.ttf": "/R3FPortfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
+    "index.html": "/R3FPortfolio/index.html",
+    "main.dc14b45e.css.map": "/R3FPortfolio/static/css/main.dc14b45e.css.map",
+    "main.9fc51062.js.map": "/R3FPortfolio/static/js/main.9fc51062.js.map"
   },
   "entrypoints": [
     "static/css/main.dc14b45e.css",
-    "static/js/main.cd5a7674.js"
+    "static/js/main.9fc51062.js"
   ]
 }
