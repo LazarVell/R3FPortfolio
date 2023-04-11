@@ -8,7 +8,6 @@ const SceneSwitcher = () => {
     const [switcherIFrame, setSwitcherIFrame] = useState(true)
     const [switcherCanvas, setSwitcherCanvas] = useState(false)
     const [unlockButton, setUnlockButton] = useState(true)
-    const [setFirstTime, setsetFirstTime] = useState(true)
 
     const switcherHandler = () => {
         setUnlockButton(false);
@@ -28,7 +27,9 @@ const SceneSwitcher = () => {
     }
     
   return (
-    <>    {unlockButton && <button className='button-Switcher' onClick={switcherHandler} />}
+    <>    
+    {unlockButton && <button className='button-Switcher' onClick={switcherHandler} />}
+    
     {switcher? 
     <div style={{
         height: '100%',

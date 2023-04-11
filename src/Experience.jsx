@@ -9,7 +9,6 @@ import {
 } from "@react-three/drei";
 import modelgtlf from "./images/model.gltf";
 import greetingsFont from "./fonts/BebasNeue-Regular.ttf";
-import Iframe from "./Iframe.component";
 
 export default function Experience() {
   const computer = useGLTF(modelgtlf);
