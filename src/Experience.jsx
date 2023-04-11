@@ -9,10 +9,10 @@ import {
 } from "@react-three/drei";
 import modelgtlf from "./images/model.gltf";
 import greetingsFont from "./fonts/BebasNeue-Regular.ttf";
+import Iframe from "./Iframe.component";
 
 export default function Experience() {
   const computer = useGLTF(modelgtlf);
-  console.log(computer);
 
   return (
     <>
@@ -35,7 +35,7 @@ export default function Experience() {
             width={2.5}
             height={1.65}
             intensity={65}
-            color={"#41138a"}
+            color={"orangered"}
             rotation={[0.1, Math.PI, 0]}
             position={[0, 0.55, -1.15]}
           />
@@ -59,6 +59,16 @@ export default function Experience() {
             maxWidth={2}
           >
             Portfolio of Lazar Velickovic
+          </Text>
+          <Text
+            font={greetingsFont}
+            fontSize={0.2}
+            position={[0.8, 1.5, -2]}
+            rotation-y={-0.1}
+            rotation-z={0.1}
+            maxWidth={2}
+          >
+            you can scroll the screen!
           </Text>
         </Float>
       </PresentationControls>
