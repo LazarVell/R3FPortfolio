@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/R3FPortfolio/static/css/main.cc31aeae.css",
-    "main.js": "/R3FPortfolio/static/js/main.8e9663af.js",
+    "main.js": "/R3FPortfolio/static/js/main.c80885ca.js",
+    "static/media/potsdamer_platz_1k.hdr": "/R3FPortfolio/static/media/potsdamer_platz_1k.f2c2783b101b748975d5.hdr",
     "static/media/model.gltf": "/R3FPortfolio/static/media/model.9c01e3a7e580a454b2fc.gltf",
     "static/media/BebasNeue-Regular.ttf": "/R3FPortfolio/static/media/BebasNeue-Regular.12e3683f9192436a7be8.ttf",
     "static/media/mysteryBox.png": "/R3FPortfolio/static/media/mysteryBox.ebe9442b3a0224f8d462.png",
     "index.html": "/R3FPortfolio/index.html",
     "main.cc31aeae.css.map": "/R3FPortfolio/static/css/main.cc31aeae.css.map",
-    "main.8e9663af.js.map": "/R3FPortfolio/static/js/main.8e9663af.js.map"
+    "main.c80885ca.js.map": "/R3FPortfolio/static/js/main.c80885ca.js.map"
   },
   "entrypoints": [
     "static/css/main.cc31aeae.css",
-    "static/js/main.8e9663af.js"
+    "static/js/main.c80885ca.js"
   ]
 }
